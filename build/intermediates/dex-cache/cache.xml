@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\be84984c74aac5ec0a18e0dc43ad76d729f86985\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7033d096e7f87a61dd0e1f8ccc3abc352f2cbf1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.51\8b5933578dc55f32cfc1a25f1db6371e4161fb8f\kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.51_dfd4d842442f1c7f46b3c5b35dd0ace7bee63aa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\13f9e095d0ba1aaf095161cc289af011d9bda300\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38f3566b1240da0173d2e97e30021cb5729fb7e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\0940b09f0e237bc2ad35d9d4cd0451afd3383300\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a54a07e00c6e195c814ecb00ca0c06f813dae211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_4d93a9bc27dfc4f60677af0c105c17bbb286af3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_cc91259fccd9f9f453c21fc094dbbe61f97cdc13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\d56e547cb3b91a64cd07cd64df54f2a7b9ef75a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0045c2c13294d397c0c82b5ddbe5101da3bb2c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\387355701d0a2f5bec1cad447a5ff68a8278abde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c20bf4ec4994213ca41657da7be97c768fb2dd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0fa65deb386856eae042e2437655b095d074a8b6">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d7951d9dfe4a2c65a7ec37fe4fc59bc1194b9c80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\6dfd6312d85e48475e3c60fc3a1b0ed62aca5043\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9ef13cdcad3566f0f5d121d321a738323ec14ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\42afbdbb293472aa8195f4584d67e06a5b923f22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db7904162c23bddb8a626748a49af37db1c83cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\85b4571ea07ebf2dafa1e68f84fd5bf7457e4eb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52277d17aa24f331d2212db4d75b981623d43bee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_ad0d04236e46161e70cd43ef2a15f2dc19c54a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\1da4eeab1b819b373f34f42e9e3d18ed2471b1e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4f7b83a289abf65266c4d477a389269e07893e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\2b32c2a096fe1ab5f0a3885548f806129bb9af7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b235dd860aacf55fe5e3ded63f04ee5dcafa1f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_703bd697645605f20d425aaf50ff7064b66d6152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.51\e34fe80c9714240525f665113dd3749415515655\kotlin-stdlib-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.51_8b6de110654684e4d6a82493073d5c6289a46cb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\5df27b2a5c1c6fe3f0c12f1afa12a7a13e74e98d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b95ba192ed2f4f331defe3f7d43150f8b6cec5d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkSoft\android-studio-ide-171.4195411-windows\android-studio\gradle\m2repository\org\jetbrains\annotations\13.0\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_9d4e4cc0496e7e569e2ed4f6204f00d4d71ec2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangx\.android\build-cache\40ac83eb9c2f783db075412854a227967e34938c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="N:\work\openproject\android-FingerprintDialog-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5b5c6392a021e8f01c27a2dbb3b1b3bb166a700\classes.dex" />
+    </item>
+
+</items>

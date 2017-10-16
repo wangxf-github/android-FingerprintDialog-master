@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-45:12
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:17:1-30:12
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-45:12
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-45:12
+	package
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:11-58
+	android:versionName
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:17:5-63
+	android:versionCode
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:22:22-71
+application
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:24:5-44:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:27:9-49
+	tools:ignore
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:30:9-48
+	android:icon
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:29:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:41:9-43:55
+	android:label
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:42:13-45
+uses-sdk
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:20:5-22:41
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		ADDED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from N:\work\openproject\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca92c8b538685197a1a950518ba421b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4850392f8f057a5f3855b1201c1109ed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f3c0ffc811b648f7a5a1940c559686e6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a5c8993a046b4aa4e043444a306b77ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\250988684a60aa8dac97065f571eb8b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5fede204875ae0fb868e675d6ea50373\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d6ab2b18ce72af23de2a8e7c39eed1a4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\06ec63a8391fa3ea36b7a08cc1240aaa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8f3c2150b5c79541d9e83f493a955fe2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5cb4f64226ed868138239b2f7289f482\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\67a37df8e1417f7f76afdbf5d16f2d6b\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\wangx\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d2d220053166e16296c1e3c8ab49fcf\AndroidManifest.xml:26:13-58
